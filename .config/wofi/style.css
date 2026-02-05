@@ -1,0 +1,45 @@
+/* ===== CATPPUCCIN MOCHA ===== */
+window {
+    background-color: rgba(30, 30, 46, 0.98);
+    border-radius: 16px;
+    margin: 6px;
+    font-family: "JetBrains Mono Nerd Font", monospace;
+    font-size: 15px;
+}
+
+#input {
+    margin: 12px;
+    border-radius: 12px;
+    background-color: rgba(49, 50, 68, 0.6);
+    color: #cdd6f4;
+    padding: 12px;
+    border: 2px solid rgba(203, 166, 247, 0.3);
+}
+
+#inner-box {
+    margin: 6px;
+}
+
+#outer-box {
+    margin: 12px;
+}
+
+#scroll {
+    border-radius: 12px;
+}
+
+#entry {
+    border-radius: 10px;
+    margin: 4px 0;
+    padding: 10px 16px;
+    color: #cdd6f4;
+}
+
+#entry:selected {
+    background-color: rgba(203, 166, 247, 0.25);
+    color: #cba6f7;
+}
+
+#entry image {
+    color: #cdd6f4;
+}

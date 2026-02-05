@@ -1,1 +1,7 @@
-
+[config]
+allow_images=false
+show=drun
+columns=3
+width=450
+location=0
+layer=overlay
